@@ -63,8 +63,8 @@ const App = () => {
       <button onClick={() => handleDelete(t.id)} >Delete</button>
     </li>
     ))}
-
   </ul>
+  
   </div>
 
   </div>
